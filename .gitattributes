@@ -1,0 +1,8 @@
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.manifest text eol=lf
+*.step text eol=lf
+*.svg text eol=lf
+*.f3d binary
+*.png binary

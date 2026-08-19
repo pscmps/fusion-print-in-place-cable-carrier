@@ -1,0 +1,12 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "author": "OpenAI Codex",
+  "description": {
+    "": "寸法指定でPrint-in-Placeケーブルキャリアを生成します。 / Generate a dimensioned print-in-place cable carrier."
+  },
+  "version": "1.1.0",
+  "supportedOS": "windows",
+  "runOnStartup": true,
+  "editEnabled": true
+}

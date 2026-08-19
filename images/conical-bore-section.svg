@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+  <rect width="1000" height="520" fill="#f7f7f5"/>
+  <text x="50" y="52" font-family="sans-serif" font-size="28" font-weight="700" fill="#222">円錐軸と追従穴の断面</text>
+  <path d="M90 100 H910 V420 H90 Z M175 260 L505 95 L835 260 L505 425 Z" fill="#d8b56a" fill-rule="evenodd" stroke="#4a3b22" stroke-width="4"/>
+  <path d="M235 260 L505 125 L775 260 L505 395 Z" fill="#586a7a" stroke="#24313c" stroke-width="4"/>
+  <path d="M175 260 L505 95 M235 260 L505 125 M835 260 L505 425 M775 260 L505 395" stroke="#d74635" stroke-width="4"/>
+  <line x1="205" y1="215" x2="265" y2="185" stroke="#d74635" stroke-width="3"/>
+  <line x1="205" y1="215" x2="218" y2="215" stroke="#d74635" stroke-width="3"/>
+  <line x1="205" y1="215" x2="211" y2="227" stroke="#d74635" stroke-width="3"/>
+  <text x="275" y="180" font-family="sans-serif" font-size="25" fill="#b52e20">半径方向隙間 0.30 mm</text>
+  <text x="105" y="485" font-family="sans-serif" font-size="23" fill="#333">穴壁：内側 R2.00 → 外側 R0.35（軸方向 1.65 mm、傾き 1:1 = 45°）</text>
+  <text x="430" y="270" font-family="sans-serif" font-size="24" font-weight="700" fill="#fff">円錐軸</text>
+  <text x="705" y="120" font-family="sans-serif" font-size="22" fill="#4a3b22">軸受耳</text>
+</svg>
